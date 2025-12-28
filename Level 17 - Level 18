@@ -1,0 +1,8 @@
+bandit17@bandit:~$ ls
+passwords.new  passwords.old
+bandit17@bandit:~$ diff passwords.old passwords.new
+42c42
+< C6XNBdYOKgt5ARXESMKW0UWBeaIQZ0Y
+---
+> x2gLTTjFwM0hQ8oWNbMN362QKxfRqGlO
+bandit17@bandit:~$ exit
