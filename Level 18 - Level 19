@@ -1,0 +1,3 @@
+The command used in this level are:
+'ssh bandit18@bandit.labs.overthewire.org -p 2220 "cat readme"
+and the password I got in this level is cGWpMaKXVwDUNgPAVJbWYuGHVn9zl3j8.
