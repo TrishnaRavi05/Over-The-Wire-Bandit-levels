@@ -1,0 +1,34 @@
+OverTheWire Bandit Write-ups (Level 0–34)
+
+This repository contains my complete write-ups for the **OverTheWire Bandit** wargame.
+Bandit focuses on Linux fundamentals, file permissions, SSH, networking, and basic security concepts.
+
+🔗 Official Bandit Wargame: https://overthewire.org/wargames/bandit/
+
+---
+
+Levels Completed
+- Bandit Level 0 → Level 34
+
+---
+
+Skills Covered
+- Linux command line
+- File permissions
+- SSH authentication
+- Networking basics
+- Encoding & decoding
+- Scripting concepts
+- Security fundamentals
+
+---
+
+Repository Structure
+Each level has its own folder containing:
+- Level description
+- Step-by-step solution
+- Commands used
+- Explanation of why it works
+
+---
+
